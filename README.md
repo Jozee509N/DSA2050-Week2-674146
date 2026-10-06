@@ -1,7 +1,7 @@
 # DSA 2050 – Week 2 SQL Lab
 
-**Name:** [Joseph Ngui]
-**Student ID:** [674146]
+**Name:** Joseph Ngui
+**Student ID:** 674146
 **Course:** DSA 2050
 **Notebook:** `DSA_2050_Week2_SQL_Lab.ipynb`
 
