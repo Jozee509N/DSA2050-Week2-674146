@@ -1,0 +1,18 @@
+[
+    {
+        "RegionCode": "NRB",
+        "RegionName": "Nairobi"
+    },
+    {
+        "RegionCode": "MSA",
+        "RegionName": "Mombasa"
+    },
+    {
+        "RegionCode": "KSM",
+        "RegionName": "Kisumu"
+    },
+    {
+        "RegionCode": "NKR",
+        "RegionName": "Nakuru"
+    }
+]

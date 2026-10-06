@@ -1,0 +1,16 @@
+OrderID,CustomerID,OrderAmount,ProductCategory
+O001,C001,4500,Electronics
+O002,C002,12500,Office
+O003,C001,3200,Home
+O004,C003,6800,Electronics
+O005,C004,9100,Office
+O006,C005,15000,Electronics
+O007,C006,7600,Home
+O008,C002,8300,Office
+O009,C007,2500,Home
+O010,C008,11000,Electronics
+O011,C009,5400,Office
+O012,C010,6200,Home
+O013,C006,4300,Electronics
+O014,C003,7200,Office
+O015,C999,9900,Electronics

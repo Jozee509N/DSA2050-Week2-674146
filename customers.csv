@@ -1,0 +1,12 @@
+CustomerID,CustomerName,Segment,RegionCode
+C001,Amina,Retail,NRB
+C002,Brian,Corporate,MSA
+C003,Carol,Retail,NRB
+C004,David,SME,KSM
+C004,David,SME,KSM
+C005,Esther,Corporate,NKR
+C006,Faith,SME,NRB
+C007,George,Retail,MSA
+C008,Halima,Corporate,KSM
+C009,Ian,Retail,NKR
+C010,Jane,SME,NRB
